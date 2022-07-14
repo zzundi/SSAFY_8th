@@ -42,7 +42,7 @@ Git기반의 저장소 서버를 제공하는 서비스
     - **git init** 명령어로 로컬 저장소를 생성
     - **.git** 디렉토리에 **버전 관리에 필요한 모든 것**이 들어있음
     
-    ![Untitled](Git%20561a0399fefe4c9cb36011fd167ad2df/Untitled.png)
+    ![Untitled](note_1/Untitled.png)
     
     - (master) ← git으로 관리됨을 뜻함
 
@@ -92,7 +92,7 @@ Git기반의 저장소 서버를 제공하는 서비스
     - -r  옵션을 주면 폴더 삭제 가능
         - r 옵션은 recursion 으로 타고 타고 모두 삭제 하는 명령어
 
-![~ ←표시가 현재 작업중인 위치(자주 써서 ~표시)](Git%20561a0399fefe4c9cb36011fd167ad2df/Untitled%201.png)
+![~ ←표시가 현재 작업중인 위치(자주 써서 ~표시)](note_1/Untitled%201.png)
 
 ~ ←표시가 현재 작업중인 위치(자주 써서 ~표시)
 
